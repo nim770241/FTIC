@@ -1,0 +1,14 @@
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.AssemblyInfoInputs.cache
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.AssemblyInfo.cs
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.csproj.CoreCompileInputs.cache
+/home/nim/PCtest/bin/Debug/net10.0/PCtest
+/home/nim/PCtest/bin/Debug/net10.0/PCtest.deps.json
+/home/nim/PCtest/bin/Debug/net10.0/PCtest.runtimeconfig.json
+/home/nim/PCtest/bin/Debug/net10.0/PCtest.dll
+/home/nim/PCtest/bin/Debug/net10.0/PCtest.pdb
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.dll
+/home/nim/PCtest/obj/Debug/net10.0/refint/PCtest.dll
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.pdb
+/home/nim/PCtest/obj/Debug/net10.0/PCtest.genruntimeconfig.cache
+/home/nim/PCtest/obj/Debug/net10.0/ref/PCtest.dll
