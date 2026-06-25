@@ -6,17 +6,17 @@
 		static void Main() {
 			
 			string? login;
-			string? PassFeel;
+			string? passFeel;
 			string? pass = "";
 			Random rf = new Random();
-			int Check = Convert.ToInt16(rf.Next(200, 2000));
-			int Boot = Convert.ToInt16(rf.Next(300, 5000));
+			int check = rf.Next(200, 2000);
+			int boot = rf.Next(300, 5000);
 
 	Console.WriteLine("***Checking...");
-	System.Threading.Thread.Sleep(Check);
+	System.Threading.Thread.Sleep(check);
 
 		Console.WriteLine("***Booting...");
-	System.Threading.Thread.Sleep(Boot);
+	System.Threading.Thread.Sleep(boot);
 		Console.WriteLine("***Done");
 
 
@@ -33,13 +33,13 @@
 		
 		while(true){
 	Console.WriteLine("****Add a password? Y/N");
-		PassFell = Console.ReadLine()?.Trim().ToLower();
-		if (!string.IsNullOrWhiteSpace(fA))
+		passFeel = Console.ReadLine()?.Trim().ToLower();
+		if (!string.IsNullOrWhiteSpace(passFeel))
 			break;
 	Console.WriteLine("Error: This field must not be empty");
 		}
 
-			if (PassFell == "y") {
+			if (passFeel == "y") {
 
 
 				while(true) {
@@ -66,7 +66,7 @@
 				logon = Console.ReadLine();
 				}
 
-	switch(PassFell) {			
+	switch(passFeel) {			
 	case "y":
 	Console.WriteLine("***Write the password: ");
 	string? poss = Console.ReadLine();
